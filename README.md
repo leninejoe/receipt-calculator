@@ -32,10 +32,13 @@ To run this project, you need:
    ```bash
    git clone https://github.com/yourusername/my-pizza-shop.git
 2. **Navigate to the project directory**:
+   ```bash
    cd my-pizza-shop
-3. **Compile the Java files**:
+4. **Compile the Java files**:
+   ```bash
    javac Task2/Receipt.java
-4. **Run the application**:
+6. **Run the application**:
+   ```bash
    java Task2.Receipt
 
 ## Usage
